@@ -116,7 +116,7 @@ Sidans utseende och layout bestäms av filen `less/style.less`. Där kan du gör
 
 Peka nu din webbläsare mot din utvecklingsserver för att prova referensinstallationen.
 
-Min referensinstallation finns också på: <a href="http://www.student.bth.se/~stlu12/javascript/imgbox/" target="_blank">http://www.student.bth.se/~stlu12/javascript/imgbox/</a>.
+Min referensinstallation finns också på: <a href="http://www.student.bth.se/~stlu12/javascript/imgbox/" target="_blank">www.student.bth.se/~stlu12/javascript/imgbox/</a>.
 
 ###Användning
 
