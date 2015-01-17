@@ -7,7 +7,7 @@ som en del i kursen "JavaScript, jQuery och AJAX, HTML5, PHP" på Blekinge Tekni
 
 * Kunskaper i HTML, CSS, PHP och JQUERY
 * JavaScript tillåts i webbläsare
-* Nyaste versionen utav FireFox.`
+* Nyaste versionen utav FireFox.
 
 ###Filer i paketet
 ```
@@ -125,4 +125,4 @@ Använd din ImageBox-referenssida för att labba omkring.
 ###Konfiguration
 
 I filerna `less/style.less` och `js/main.js` kan du göra de ändringar du önskar. 
-Du kan också använda indexfilen index.php som den är och/eller modifiera den efter eget önskemål.
+Du kan också använda indexfilen `index.php` som den är och/eller modifiera den efter eget önskemål.
