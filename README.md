@@ -76,12 +76,13 @@ echo $img->GetImages1('gallery');
 
 Följande kod genererar bilderna till en slideshow:
 ```PHP
+<?php
 <div class='slideshow'>
 <?php 
 echo $img->GetImages1('slideshow');
 ?>
 </div>
-''´
+```
 Applikationen innehåller också funktionalitet för att ladda upp och ta bort bilder.`
 Knapparna som styr uppladningsformuläret och bildarkivet genereras av denna kod: 
 ```PHP
