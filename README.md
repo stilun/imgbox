@@ -83,7 +83,7 @@ echo $img->GetImages1('slideshow');
 ?>
 </div>
 ```
-Applikationen innehåller också funktionalitet för att ladda upp och ta bort bilder.`
+Applikationen innehåller också funktionalitet för att ladda upp och ta bort bilder.
 Knapparna som styr uppladningsformuläret och bildarkivet genereras av denna kod: 
 ```PHP
 <?php
@@ -116,7 +116,7 @@ Sidans utseende och layout bestäms av filen `less/style.less`. Där kan du gör
 
 Peka nu din webbläsare mot din utvecklingsserver för att prova referensinstallationen.
 
-Min referensinstallation finns också på: `http://www.student.bth.se/~stlu12/javascript/imgbox/`.
+Min referensinstallation finns också på: <a href="http://www.student.bth.se/~stlu12/javascript/imgbox/" target="_blank">www.student.bth.se/~stlu12/javascript/imgbox/</a>.
 
 ###Användning
 
