@@ -24,7 +24,7 @@ less/style.less - innehåller less/css kod som stylar hemsidan. Här redigeras d
 ```
 ###Ladda hem och packa upp
 
-Klona applikationen från GitHub: `git clone https://github.com/stilun/imgbox`, eller ladda hem zip-versionen. 
+Klona applikationen från GitHub: `git clone https://github.com/stilun/imgbox.git`, eller ladda hem zip-versionen. 
 Navigera till din imgbox-katalog och ladda upp denna till din utvecklingsserver. 
 __Ge katalogerna `img/gallery/, img/lightbox/ och img/slideshow/` filrättigheterna chmod 777__.
 
