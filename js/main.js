@@ -163,7 +163,7 @@ $(document).ready(function(){
   });
   
    $('#close').click(function(){
-    window.location = "index.php";
+    window.location = "index.php#form";
   });
  
 });
