@@ -1,4 +1,4 @@
-#MY IMAGEGBOX
+#ImageBox
 
 Detta är senaste versionen utav ImageBox. Skapat av Stig Lundmark, stig@stilun.de, 
 som en del i kursen "JavaScript, jQuery och AJAX, HTML5, PHP" på Blekinge Tekniska Högskola.
