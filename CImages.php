@@ -135,7 +135,7 @@ class CImages
 	$list .="<ul>\n";
 	foreach($pix as $val)
 	{    
-		$list .= "<li><form method='post' action='index.php?show-list'><img class='lightbox' src='img/".$imgfolder."/".$val."' width='50px'/> ".$val."\n\t<input type='hidden' name='img' value='img/".$imgfolder."/".$val."'>&nbsp;<input type='submit' id='show' name='delete' value='Ta bort bilden' /></form></li>\n";
+		$list .= "<li><form method='post' action='index.php?show-list#list'><img class='lightbox' src='img/".$imgfolder."/".$val."' width='50px'/> ".$val."\n\t<input type='hidden' name='img' value='img/".$imgfolder."/".$val."'>&nbsp;<input type='submit' id='show' name='delete' value='Ta bort bilden' /></form></li>\n";
 	}
 	
 	$list .="</ul>\n";
@@ -185,7 +185,7 @@ LIST;
     public function UploadForm()
     {
     	 $form = <<<FORM
-	<form action='index.php?show-list' method='POST' enctype='multipart/form-data' name='form_img'>
+	<form action='index.php?show-list#list' method='POST' enctype='multipart/form-data' name='form_img'>
 	<fieldset>
 	 <legend><strong>Ladda upp bilder</strong></legend> 
 	 <table width='100%' border='0' cellspacing='0' cellpadding='3'>
