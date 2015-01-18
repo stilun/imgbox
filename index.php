@@ -52,6 +52,7 @@ echo $img->GetImages1('slideshow');
 <hr />
 
 <?php
+echo "<a name='form'></a>";
 if (isset($_GET['show-form']))
 {
 	echo $img->UploadForm();
@@ -62,6 +63,7 @@ else
 	echo "<button id='show-form'>Ladda upp bilder</button>";
 }
 echo "&nbsp;";
+echo "<a name='list'></a>";
 if (isset($_GET['show-list']))
 {
 	echo "<button id='close'>Stäng bildarkivet</button>";
