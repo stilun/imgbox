@@ -155,11 +155,11 @@ $(document).ready(function(){
   
    // Show archive
   $('#show-list').click(function(){
-    window.location = "index.php?show-list";
+    window.location = "index.php?show-list#list";
   });
   
    $('#show-form').click(function(){
-    window.location = "index.php?show-form";
+    window.location = "index.php?show-form#form";
   });
   
    $('#close').click(function(){
